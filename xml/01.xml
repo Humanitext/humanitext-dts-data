@@ -21,7 +21,6 @@
             </sourceDesc>
         </fileDesc>
     </teiHeader>
-<!--
     <sourceDoc>
         <surfaceGrp rend="3D">
             <lighting type="spotLight" position="0 1 1"/>
@@ -58,7 +57,6 @@
             </surface>
         </surfaceGrp>
     </sourceDoc>
-    -->
     <text>
         <body>
             <div type="edition" xml:space="preserve"><head>Text</head><ab><lb n="1"/>
