@@ -21,7 +21,7 @@
                     "metadata": [
                         {
                             "label": "vol",
-                            "value": "metaphysics"
+                            "value": "TEI_3D_parallel"
                         },
                         {
                             "label": "aozora",
@@ -29,7 +29,7 @@
                         },
                         {
                             "label": "tei",
-                            "value": "https://raw.githubusercontent.com/Humanitext/dts-data/refs/heads/main/xml/Aristotle/metaphysics.xml"
+                            "value": "https://raw.githubusercontent.com/Humanitext/dts-data/refs/heads/main/xml/Aristotle/TEI_3D_parallel.xml"
                         },
                         {
                             "label": "ndl",
