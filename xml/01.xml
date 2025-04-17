@@ -35,7 +35,7 @@
                 <zone xml:id="z02" 
                     points="0,1,0 1,0,0 -1,0,0 0,-1,0">
                     <lb n="1"/>
-                    <expan><abbr>D</abbr><ex>is</ex></expan>
+                    <expan xml:id="ex001"><abbr>D</abbr><ex>is</ex></expan>
                     <expan><abbr>M</abbr><ex>anibus</ex></expan>
                     <zone xml:id="inscription01_ft_l2" points="0,0,0 0.5,0,0 -0.5,0,0 0,-0.5,0">
                         <lb n="2"/><gap reason="lost" extent="unknown" unit="character"
