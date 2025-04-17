@@ -58,7 +58,6 @@
             </surface>
         </surfaceGrp>
     </sourceDoc>
-    <!--
     <text>
         <body>
             <div type="edition" xml:space="preserve"><head>Text</head><ab><lb n="1"/>
@@ -72,5 +71,4 @@
             </div>
         </body>
     </text>
-    -->
 </TEI>
