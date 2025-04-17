@@ -60,8 +60,7 @@
     <text>
         <body>
             <div type="edition" xml:space="preserve"><head>Text</head><ab><lb n="1"/>
-                <expan xml:id="ex001"><abbr>D</abbr><ex>is</ex></expan> <expan><abbr>M</abbr><ex>anibus</ex></expan> <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/>MI<lb break="no" n="3"/><gap reason="lost" extent="unknown" unit="character"/>R<lb break="no" n="4"/><gap reason="lost" extent="unknown" unit="character"/> XXXXVII <expan><abbr>stip</abbr><ex>endiorum</ex></expan> <lb n="5"/>XXVIII <expan><abbr>Iul</abbr><ex>ius</ex></expan> Martialis <lb n="6"/><expan><abbr>dupl</abbr><ex>icarius</ex></expan> alae Britan<expan><ex>n</ex><abbr>ic</abbr><ex>a</ex><abbr>e</abbr></expan> <lb n="7"/>heres Ermius <lb n="8"/><expan><abbr>lib</abbr><ex>ertus</ex></expan> eius
-                <seg corresp="https://w3id.org/kouigenjimonogatari/api/items/0035-01.json">ひかる源氏名のみこと〱しういひけたれたまふとかおほかなるにいとゝかゝ</seg>
+                <expan type="expan" xml:id="ex001"><abbr>D</abbr><ex>is</ex></expan> <expan><abbr>M</abbr><ex>anibus</ex></expan> <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/>MI<lb break="no" n="3"/><gap reason="lost" extent="unknown" unit="character"/>R<lb break="no" n="4"/><gap reason="lost" extent="unknown" unit="character"/> XXXXVII <expan><abbr>stip</abbr><ex>endiorum</ex></expan> <lb n="5"/>XXVIII <expan><abbr>Iul</abbr><ex>ius</ex></expan> Martialis <lb n="6"/><expan><abbr>dupl</abbr><ex>icarius</ex></expan> alae Britan<expan><ex>n</ex><abbr>ic</abbr><ex>a</ex><abbr>e</abbr></expan> <lb n="7"/>heres Ermius <lb n="8"/><expan><abbr>lib</abbr><ex>ertus</ex></expan> eius
             </ab></div>
             <div type="commentary">
                 <p/>
