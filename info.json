@@ -29,7 +29,7 @@
                         },
                         {
                             "label": "tei",
-                            "value": "https://raw.githubusercontent.com/Humanitext/dts-data/refs/heads/main/xml/TEI_3D_parallel.xml"
+                            "value": "https://raw.githubusercontent.com/Humanitext/dts-data/refs/heads/main/xml/01.xml"
                         },
                         {
                             "label": "ndl",
