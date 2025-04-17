@@ -11,7 +11,7 @@
             "within": {
                 "@id": "https://dl.ndl.go.jp/api/iiif/3437686/manifest.json",
                 "@type": "sc:Manifest",
-                "label": "碑文"
+                "label": "校異源氏物語. 巻一"
             },
             "members": [
                 {
@@ -29,7 +29,7 @@
                         },
                         {
                             "label": "tei",
-                            "value": "https://genji.dl.itc.u-tokyo.ac.jp/data/tei/yosano/01.xml"
+                            "value": "https://raw.githubusercontent.com/Humanitext/dts-data/refs/heads/main/xml/TEI_3D_parallel.xml"
                         },
                         {
                             "label": "ndl",
@@ -89,11 +89,11 @@
                         },
                         {
                             "label": "tei",
-                            "value": ""
+                            "value": "https://genji.dl.itc.u-tokyo.ac.jp/data/tei/yosano/02.xml"
                         },
                         {
                             "label": "ndl",
-                            "value": "https://github.com/Humanitext/dts-data/blob/main/xml/TEI_3D_embed.xml"
+                            "value": "https://dl.ndl.go.jp/info:ndljp/pid/3437686/35"
                         },
                         {
                             "label": "ndl_front",
@@ -149,7 +149,7 @@
                         },
                         {
                             "label": "tei",
-                            "value": "https://github.com/Humanitext/dts-data/blob/main/xml/TEI_3D_parallel.xml"
+                            "value": "https://genji.dl.itc.u-tokyo.ac.jp/data/tei/yosano/03.xml"
                         },
                         {
                             "label": "ndl",
