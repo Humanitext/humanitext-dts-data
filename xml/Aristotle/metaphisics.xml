@@ -1,0 +1,31 @@
+<?xml-model href="tei-epidoc_modified.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--<?xml-model href="tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:svg="http://www.w3.org/2000/svg">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>ILN, V, n. 602</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>Digital Edition</edition>
+                <respStmt>
+                    <resp>Editors</resp>
+                    <name>Jun Ogawa</name>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <ab/>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:id="book01A" xml:space="preserve">
+                <seg xml:id="980a21">Πάντες ἄνθρωποι τοῦ εἰδέναι ὀρέγονται φύσει. σημεῖον δ'</seg>
+            </div>
+        </body>
+    </text>
+</TEI>
