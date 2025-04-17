@@ -29,7 +29,7 @@
                         },
                         {
                             "label": "tei",
-                            "value": "https://raw.githubusercontent.com/Humanitext/dts-data/refs/heads/main/xml/01.xml"
+                            "value": "https://raw.githubusercontent.com/Humanitext/dts-data/refs/heads/main/xml/Inscription/1.xml"
                         },
                         {
                             "label": "ndl",
