@@ -1,18 +1,7 @@
 {
-    "@context": [
-        "http://iiif.io/api/presentation/2/context.json",
-        "http://codh.rois.ac.jp/iiif/curation/1/context.json"
-    ],
-    "@id": "https://genji.dl.itc.u-tokyo.ac.jp/data/info.json",
-    "@type": "cr:Curation",
-    "label": "Character List",
     "selections": [
-        {
-            "within": {
-                "@id": "https://dl.ndl.go.jp/api/iiif/3437686/manifest.json",
-                "@type": "sc:Manifest",
-                "label": "Aristotle:Metaphysics"
-            },
+        {       
+            "label": "Aristotle:Metaphysics",
             "members": [
                 {
                     "@id": "https://dl.ndl.go.jp/api/iiif/3437686/canvas/20",
