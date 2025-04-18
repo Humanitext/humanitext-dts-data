@@ -4,7 +4,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>ILN, V, n. 602</title>
+                <title>Metaphysics vol.1</title>
             </titleStmt>
             <editionStmt>
                 <edition>Digital Edition</edition>
@@ -25,6 +25,7 @@
         <body>
             <div xml:id="book01A" xml:space="preserve">
                 <seg xml:id="980a21">Πάντες ἄνθρωποι τοῦ εἰδέναι ὀρέγονται φύσει. σημεῖον δ'</seg>
+                <seg xml:id="980a22">ἡ τῶν αἰσθήσεων ἀγάπησις· καὶ γὰρ χωρὶς τῆς χρείας</seg>
             </div>
         </body>
     </text>
