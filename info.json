@@ -28,10 +28,6 @@
                             "value": "https://www.aozora.gr.jp/cards/000052/files/5016_9758.html"
                         },
                         {
-                            "label": "tei",
-                            "value": "https://raw.githubusercontent.com/Humanitext/dts-data/refs/heads/main/xml/Aristotle/Metaphysics/01.xml"
-                        },
-                        {
                             "label": "ndl",
                             "value": "https://dl.ndl.go.jp/info:ndljp/pid/3437686/20"
                         },
