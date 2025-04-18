@@ -29,7 +29,7 @@
                         },
                         {
                             "label": "tei",
-                            "value": "https://raw.githubusercontent.com/Humanitext/dts-data/refs/heads/main/xml/Aristotle/Metaphysics/01.xml"
+                            "value": "https://raw.githubusercontent.com/Humanitext/dts-data/refs/heads/main/xml/aristotle/metaphysics/01.xml"
                         },
                         {
                             "label": "ndl",
