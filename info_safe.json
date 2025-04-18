@@ -11,17 +11,17 @@
             "within": {
                 "@id": "https://dl.ndl.go.jp/api/iiif/3437686/manifest.json",
                 "@type": "sc:Manifest",
-                "label": "Aristotle:Metaphysics"
+                "label": "校異源氏物語. 巻一"
             },
             "members": [
                 {
                     "@id": "https://dl.ndl.go.jp/api/iiif/3437686/canvas/20",
                     "@type": "sc:Canvas",
-                    "label": "vol1",
+                    "label": "桐壺",
                     "metadata": [
                         {
                             "label": "vol",
-                            "value": 1
+                            "value": "TEI_3D_parallel"
                         },
                         {
                             "label": "aozora",
@@ -29,7 +29,7 @@
                         },
                         {
                             "label": "tei",
-                            "value": "https://raw.githubusercontent.com/Humanitext/dts-data/refs/heads/main/xml/Aristotle/Metaphysics/01.xml"
+                            "value": "https://raw.githubusercontent.com/Humanitext/dts-data/refs/heads/main/xml/Inscription/TEI_3D_parallel.xml"
                         },
                         {
                             "label": "ndl",
