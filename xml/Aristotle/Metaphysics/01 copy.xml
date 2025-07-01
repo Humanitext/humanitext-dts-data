@@ -1,0 +1,35 @@
+<?xml-model href="tei-epidoc_modified.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--<?xml-model href="tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:svg="http://www.w3.org/2000/svg">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Metaphysics vol.1</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>Digital Edition</edition>
+                <respStmt>
+                    <resp>Editors</resp>
+                    <name>Jun Ogawa</name>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <ab/>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:id="01" xml:space="preserve">
+                <seg xml:id="980a21">Πάντες ἄνθρωποι τοῦ εἰδέναι ὀρέγονται φύσει. σημεῖον δ'</seg>
+                <seg xml:id="980a22">ἡ τῶν αἰσθήσεων ἀγάπησις· καὶ γὰρ χωρὶς τῆς χρείας</seg>
+                <seg xml:id="980a23">ἀγαπῶνται δι' αὐτάς, καὶ μάλιστα τῶν ἄλλων ἡ διὰ τῶν</seg>
+                <seg xml:id="980a24">ὀμμάτων. οὐ γὰρ μόνον ἵνα πράττωμεν ἀλλὰ καὶ μηδὲν</seg>
+                <seg xml:id="980a25">μέλλοντες πράττειν τὸ ὁρᾶν αἱρούμεθα ἀντὶ πάντων ὡς εἰπεῖν</seg>
+            </div>
+        </body>
+    </text>
+</TEI>
