@@ -15,6 +15,22 @@
                     ]
                 }
             ]
+        },
+        {       
+            "label": "Plato:Republic",
+            "members": [
+                {
+                    "@id": "https://dl.ndl.go.jp/api/iiif/3437686/canvas/20",
+                    "@type": "sc:Canvas",
+                    "label": "vol1",
+                    "metadata": [
+                        {
+                            "label": "vol",
+                            "value": "Republic:01"
+                        }
+                    ]
+                }
+            ]
         }
     ]
 }
