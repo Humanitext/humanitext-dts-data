@@ -20,9 +20,9 @@
       <body>
          <div type="vol" xml:id="vol_001">
             <ab type="epistula" xml:id="epist_001_001">
-               <ab type="opener">
+               <seg type="opener">
                   <persName xml:id="epist_001_001_SidApol_001">SIDONIUS</persName> <persName xml:id="epist_001_001_Const_001">CONSTANTIO SUO</persName> SALUTEM.
-               </ab>
+               </seg>
                Diu praecipis, domine maior, summa suadendi auctoritate, sicuti es in his quae
                deliberabuntur consiliosissimus, ut, si quae litterae paulo politiores varia occasione
                fluxerunt, prout eas causa persona tempus elicuit, omnes retractatis exemplaribus enu-
