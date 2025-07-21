@@ -31,6 +31,22 @@
                     ]
                 }
             ]
+        },
+        {       
+            "label": "Sidonius_Apollinaris:Epistulae",
+            "members": [
+                {
+                    "@id": "https://dl.ndl.go.jp/api/iiif/3437686/canvas/20",
+                    "@type": "sc:Canvas",
+                    "label": "vol1",
+                    "metadata": [
+                        {
+                            "label": "vol",
+                            "value": "Epistulae:01"
+                        }
+                    ]
+                }
+            ]
         }
     ]
 }
